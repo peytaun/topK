@@ -2,13 +2,10 @@
 
 ## Team members' names 
 
-1. Student Name:
+1. Student Name: Peyton Ausburn
 
-   Student UT EID:
+   Student UT EID: pea443
 
-2. Student Name:
-
-   Student UT EID:
 
  ...
 
